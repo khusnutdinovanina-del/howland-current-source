@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "howland_gost_footprints") (type "KiCad") (uri "${KIPRJMOD}/howland_gost_footprints.pretty") (options "") (descr ""))
+	(lib (name "Library") (type "KiCad") (uri "${KIPRJMOD}/howland_gost_footprints.pretty/Library.pretty") (options "") (descr ""))
+	(lib (name "howland_gost_footprints") (type "KiCad") (uri "C:/Users/Acer/Desktop/howland-current-source/lib/howland_gost_footprints.pretty") (options "") (descr ""))
+)
