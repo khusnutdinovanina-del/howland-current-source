@@ -1759,7 +1759,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 29.21 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -2236,7 +2236,7 @@
 				)
 			)
 		)
-		(property "Footprint" "howland_gost_footprints:OPA2277_DIP8"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 111.76 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -2413,7 +2413,7 @@
 				)
 			)
 		)
-		(property "Footprint" "howland_gost_footprints:OPA2277_DIP8"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 153.67 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -2447,28 +2447,28 @@
 			)
 		)
 		(pin "1"
-			(uuid "69c3f261-168e-4a41-970d-48fba1f78e5d")
+			(uuid "69c3f261-168e-4a41-970d-48fba1f78e5e")
 		)
 		(pin "4"
-			(uuid "0c3aa7e3-e9a3-4610-84c5-9a9addb8a1d5")
+			(uuid "0c3aa7e3-e9a3-4610-84c5-9a9addb8a1d6")
 		)
 		(pin "3"
-			(uuid "4ad89ad0-3176-4ac4-a9cd-e559bded9334")
+			(uuid "4ad89ad0-3176-4ac4-a9cd-e559bded9335")
 		)
 		(pin "8"
-			(uuid "f8827a01-cb57-477a-9026-d46e4b44ec60")
+			(uuid "f8827a01-cb57-477a-9026-d46e4b44ec61")
 		)
 		(pin "2"
-			(uuid "d0584b50-183a-400e-960d-7373b1c0e129")
+			(uuid "d0584b50-183a-400e-960d-7373b1c0e12a")
 		)
 		(pin "7"
-			(uuid "d1046050-8d27-434c-bca9-d5284a31517c")
+			(uuid "d1046050-8d27-434c-bca9-d5284a31517d")
 		)
 		(pin "6"
-			(uuid "91939df6-db25-45fa-bf6c-a9fdfb46621b")
+			(uuid "91939df6-db25-45fa-bf6c-a9fdfb46621c")
 		)
 		(pin "5"
-			(uuid "891f1e00-8453-485b-a1fe-6b7fd85e6b33")
+			(uuid "891f1e00-8453-485b-a1fe-6b7fd85e6b34")
 		)
 		(instances
 			(project "howland-current-source"
@@ -2836,7 +2836,7 @@
 				)
 			)
 		)
-		(property "Footprint" "howland_gost_footprints:OPA2277_DIP8"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 245.11 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -2870,19 +2870,19 @@
 			)
 		)
 		(pin "1"
-			(uuid "69c3f261-168e-4a41-970d-48fba1f78e5e")
+			(uuid "69c3f261-168e-4a41-970d-48fba1f78e5f")
 		)
 		(pin "4"
 			(uuid "f2fb220e-2b65-4be6-b73f-d9cead097a2b")
 		)
 		(pin "3"
-			(uuid "4ad89ad0-3176-4ac4-a9cd-e559bded9335")
+			(uuid "4ad89ad0-3176-4ac4-a9cd-e559bded9336")
 		)
 		(pin "8"
 			(uuid "fa682a8f-e808-4281-bf72-2af6714c80d0")
 		)
 		(pin "2"
-			(uuid "d0584b50-183a-400e-960d-7373b1c0e12a")
+			(uuid "d0584b50-183a-400e-960d-7373b1c0e12b")
 		)
 		(pin "7"
 			(uuid "f0268be8-eb30-4770-8ed6-1f0c4f20d935")
@@ -3177,7 +3177,7 @@
 				)
 			)
 		)
-		(property "Footprint" "howland_gost_footprints:OPA2277_DIP8"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 209.55 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -3226,13 +3226,13 @@
 			(uuid "bd497a22-e2c5-441b-8815-85cb96cff8f6")
 		)
 		(pin "7"
-			(uuid "d1046050-8d27-434c-bca9-d5284a31517c")
+			(uuid "d1046050-8d27-434c-bca9-d5284a31517e")
 		)
 		(pin "6"
-			(uuid "91939df6-db25-45fa-bf6c-a9fdfb46621b")
+			(uuid "91939df6-db25-45fa-bf6c-a9fdfb46621d")
 		)
 		(pin "5"
-			(uuid "891f1e00-8453-485b-a1fe-6b7fd85e6b33")
+			(uuid "891f1e00-8453-485b-a1fe-6b7fd85e6b35")
 		)
 		(instances
 			(project "howland-current-source"
