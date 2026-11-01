@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.6*%
+%TF.CreationDate,2026-11-01T23:30:23+03:00*%
+%TF.ProjectId,howland-current-source,686f776c-616e-4642-9d63-757272656e74,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.6) date 2026-11-01 23:30:23*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X35500000Y-84000000D02*
+X84500000Y-84000000D01*
+X84500000Y-128500000D01*
+X35500000Y-128500000D01*
+X35500000Y-84000000D01*
+M02*
