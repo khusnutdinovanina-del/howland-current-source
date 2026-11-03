@@ -1042,6 +1042,24 @@
 		(uuid "57477c14-82f7-4255-a674-e0de5798ef20")
 	)
 	(junction
+		(at 64.77 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5bdceb2f-91c4-4063-9f39-0c848f719ab6")
+	)
+	(junction
+		(at 58.42 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5de7cba3-33f2-4a54-ae75-7834b99e42b8")
+	)
+	(junction
+		(at 48.26 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "86f9935f-af5f-4117-a44d-1c27f2132bf3")
+	)
+	(junction
 		(at 48.26 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1107,6 +1125,16 @@
 	)
 	(wire
 		(pts
+			(xy 72.39 33.02) (xy 64.77 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1298f913-48dd-4e20-9b30-d54c1443f856")
+	)
+	(wire
+		(pts
 			(xy 86.36 80.01) (xy 100.33 80.01)
 		)
 		(stroke
@@ -1124,6 +1152,16 @@
 			(type default)
 		)
 		(uuid "1962ddf5-a54f-43bb-8f1b-3a15d660a02b")
+	)
+	(wire
+		(pts
+			(xy 48.26 35.56) (xy 48.26 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a267d76-c80f-40ea-94cf-0e80de79afe5")
 	)
 	(wire
 		(pts
@@ -1207,6 +1245,16 @@
 	)
 	(wire
 		(pts
+			(xy 64.77 33.02) (xy 64.77 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38dea326-3611-4c49-9d23-4c1932d65f6f")
+	)
+	(wire
+		(pts
 			(xy 196.85 87.63) (xy 196.85 114.3)
 		)
 		(stroke
@@ -1224,6 +1272,16 @@
 			(type default)
 		)
 		(uuid "41b0b0bd-7871-4bab-bbd0-89608b9ec7eb")
+	)
+	(wire
+		(pts
+			(xy 48.26 48.26) (xy 72.39 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4965363b-6aea-4949-ac16-f900d694cd0c")
 	)
 	(wire
 		(pts
@@ -1267,6 +1325,16 @@
 	)
 	(wire
 		(pts
+			(xy 58.42 31.75) (xy 58.42 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "584fa8c3-10fa-4c25-b4a9-87f2ca2d76c2")
+	)
+	(wire
+		(pts
 			(xy 214.63 85.09) (xy 222.25 85.09)
 		)
 		(stroke
@@ -1287,6 +1355,16 @@
 	)
 	(wire
 		(pts
+			(xy 72.39 36.83) (xy 72.39 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6107b810-1f84-45ff-b052-40e40158ec7a")
+	)
+	(wire
+		(pts
 			(xy 45.72 30.48) (xy 58.42 30.48)
 		)
 		(stroke
@@ -1294,6 +1372,16 @@
 			(type default)
 		)
 		(uuid "643c3269-5f27-4fd5-9091-d935e82a9751")
+	)
+	(wire
+		(pts
+			(xy 48.26 31.75) (xy 58.42 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a8327a8-5026-48d8-918b-66a42a8b87d0")
 	)
 	(wire
 		(pts
@@ -1334,6 +1422,16 @@
 			(type default)
 		)
 		(uuid "702acaac-09c0-474b-a0fb-4b7fddfcb53d")
+	)
+	(wire
+		(pts
+			(xy 48.26 38.1) (xy 48.26 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73304c6f-e483-4642-99df-a8ff4c95b8fb")
 	)
 	(wire
 		(pts
@@ -1387,6 +1485,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 48.26) (xy 48.26 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83058825-aaa7-4808-8f57-76012e02854c")
+	)
+	(wire
+		(pts
 			(xy 137.16 86.36) (xy 137.16 123.19)
 		)
 		(stroke
@@ -1434,16 +1542,6 @@
 			(type default)
 		)
 		(uuid "9f897859-d5d9-4639-a049-8007e9596c66")
-	)
-	(wire
-		(pts
-			(xy 48.26 48.26) (xy 48.26 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a2055ec9-90ec-4da5-ae91-ccff32ca4c6e")
 	)
 	(wire
 		(pts
@@ -1604,6 +1702,16 @@
 			(type default)
 		)
 		(uuid "f3ce2f25-8cb4-4ec4-9761-8d115eb220ef")
+	)
+	(wire
+		(pts
+			(xy 72.39 39.37) (xy 72.39 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa408e6c-6ba8-4c6d-a6a4-2d3477d5c719")
 	)
 	(wire
 		(pts
@@ -1802,6 +1910,88 @@
 			(project "howland-current-source"
 				(path "/87aa060d-23d0-4dc8-88b7-492f6709e095"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 53.34 35.56 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0abe0315-e7d7-40aa-8714-4469e4e3b193")
+		(property "Reference" "J3"
+			(at 55.88 35.5599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 55.88 38.0999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 53.34 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 53.34 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 53.34 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "413d49a5-4f67-44d2-a6b8-e515050eef38")
+		)
+		(pin "2"
+			(uuid "43762403-b381-445b-8d04-b45cf931742a")
+		)
+		(instances
+			(project "howland-current-source"
+				(path "/87aa060d-23d0-4dc8-88b7-492f6709e095"
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -2198,6 +2388,88 @@
 			(project "howland-current-source"
 				(path "/87aa060d-23d0-4dc8-88b7-492f6709e095"
 					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 77.47 36.83 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3aeaf99c-695a-4828-b9c7-bd031a92fc8f")
+		(property "Reference" "J2"
+			(at 80.01 36.8299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 80.01 39.3699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 77.47 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 77.47 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 77.47 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3815faf7-e192-4c2f-a670-1b473879a119")
+		)
+		(pin "2"
+			(uuid "af31b5d3-d69f-4abb-b30b-63a7948cd1f8")
+		)
+		(instances
+			(project "howland-current-source"
+				(path "/87aa060d-23d0-4dc8-88b7-492f6709e095"
+					(reference "J2")
 					(unit 1)
 				)
 			)
